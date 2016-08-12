@@ -1,0 +1,2 @@
+# cinemazr
+home cinema automation
